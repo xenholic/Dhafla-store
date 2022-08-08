@@ -1,5 +1,7 @@
-import { defineStore } from "pinia"
-import axios from "axios"
+import { defineStore } from "pinia";
+import axios from "axios";
+import Swal from "sweetalert2";
+import router from "../router/index.js";
 
 export const useProductStore = defineStore("Product", {
   state() {
@@ -19,32 +21,32 @@ export const useProductStore = defineStore("Product", {
   actions: {
     nextPage() {
       if (this.page !== this.totalPage) {
-        this.page++
-        this.getProduct()
+        this.page++;
+        this.getProduct();
       }
     },
     previousPage() {
       if (this.page !== 1) {
-        this.page--
-        this.getProduct()
+        this.page--;
+        this.getProduct();
       }
     },
     filterName(data) {
-      this.findName = data
-      this.getProduct()
+      this.findName = data;
+      this.getProduct();
     },
 
     async getProduct() {
       try {
-        let response = await axios.get(`${this.baseUrl}/customers/products?page=${this.page}&findCategory=${this.findCategory}&search=${this.findName}`)
-        this.totalPage = response.data.data.totalPage
-        this.products = response.data.data.getAllProduct.rows
+        let response = await axios.get(`${this.baseUrl}/customers/products?page=${this.page}&findCategory=${this.findCategory}&search=${this.findName}`);
+        this.totalPage = response.data.data.totalPage;
+        this.products = response.data.data.getAllProduct.rows;
         router.push({
           name: "HomePage",
           query: {
             page: this.page,
             findCategory: this.findCategory,
-            search: this.findName
+            search: this.findName,
           }
         })
       } catch (err) {
@@ -54,21 +56,21 @@ export const useProductStore = defineStore("Product", {
 
     async getProductById(id) {
       try {
-        let response = await axios.get(`${this.baseUrl}/customers/products/${id}`)
+        let response = await axios.get(`${this.baseUrl}/customers/products/${id}`);
 
-        this.productById = response.data.data
+        this.productById = response.data.data;
       } catch (err) {
         Swal.fire({
           icon: "error",
           title: `Error`,
-          text: `Data Error`
+          text: `Data Error`,
         });
       }
     },
 
     async getCategory() {
       try {
-        let response = await axios.get(`${this.baseUrl}/categories`)
+        let response = await axios.get(`${this.baseUrl}/categories`);
         this.categories = response.data.data
 
       } catch (err) {
