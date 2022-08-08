@@ -1,0 +1,40 @@
+{
+  "name": "p2-cms-integration-server",
+  "version": "1.0.0",
+  "description": "CMS Integration - Server",
+  "main": "app.js",
+  "scripts": {
+    "dev": "npx nodemon bin/www",
+    "start": "node bin/www",
+    "db:test": "npx sequelize-cli --env=test db:drop && npx sequelize-cli --env=test db:create && npx sequelize-cli --env=test db:migrate && npx sequelize-cli --env=test db:seed:all",
+    "db:create": "npx sequelize-cli db:drop && npx sequelize-cli db:create && npx sequelize-cli db:migrate && npx sequelize-cli db:seed:all",
+    "test": "jest --forceExit --verbose --detectOpenHandles --runInBand"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmt-24-xalapa-fox/p2-cms-integration-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmt-24-xalapa-fox/p2-cms-integration-server/issues"
+  },
+  "homepage": "https://github.com/rmt-24-xalapa-fox/p2-cms-integration-server#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "google-auth-library": "^8.0.2",
+    "jsonwebtoken": "^8.5.1",
+    "pg": "^8.7.3",
+    "sequelize": "^6.20.1"
+  },
+  "devDependencies": {
+    "jest": "^28.1.1",
+    "sequelize-cli": "^6.4.1",
+    "supertest": "^6.2.3"
+  }
+}

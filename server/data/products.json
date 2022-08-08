@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "name": "ZM Feat Masayu Clara – Befa Sky Gamis – Edisi Tengkawang",
+    "description": "ZM Dress Befa Sky Gamis bisa menjadi pilihan yang tepat untuk Anda yang menginginkan model gamis sederhana dan elegan dengan motif ala Indonesia.",
+    "price": 155960,
+    "imgUrl": "https://store.nibras.co.id/assets/image/_detail/detail_gprodukcover20220623134447.jpeg",
+    "authorId": 2,
+    "categoryId": 1,
+    "status": "active"
+  },
+  {
+    "id": 2,
+    "name": "AM Madinah – Azkia Ruffle Dress",
+    "description": "Apabila Anda mau outer yang juga bisa dijadikan dress, maka Azkia ruffle dress dari AM Madinah ini bisa menjadi pilihan yang tepat.",
+    "price": 155960,
+    "imgUrl": "https://store.nibras.co.id/assets/image/_detail/detail_gprodukcover20210705101920.jpeg",
+    "authorId": 3,
+    "categoryId": 1,
+    "status": "active"
+  },
+  {
+    "id": 3,
+    "name": "ZM Feat Masayu Clara – Befa Sky Gamis – Edisi Tengkawang",
+    "description": "ZM Dress Befa Sky Gamis bisa menjadi pilihan yang tepat untuk Anda yang menginginkan model gamis sederhana dan elegan dengan motif ala Indonesia.",
+    "price": 155960,
+    "imgUrl": "https://ceklist.id/wp-content/uploads/2022/02/6-Model-Gamis-Sederhana-dan-Elegan-ZM-Feat-Masayu-Clara-Befa-Sky-Gamis-Edisi-Tengkawang.jpg",
+    "authorId": 2,
+    "categoryId": 1,
+    "status": "active"
+  },
+  {
+    "id": 4,
+    "name": "ZM Feat Masayu Clara – Befa Sky Gamis – Edisi Tengkawang",
+    "description": "ZM Dress Befa Sky Gamis bisa menjadi pilihan yang tepat untuk Anda yang menginginkan model gamis sederhana dan elegan dengan motif ala Indonesia.",
+    "price": 155960,
+    "imgUrl": "https://ceklist.id/wp-content/uploads/2022/02/6-Model-Gamis-Sederhana-dan-Elegan-ZM-Feat-Masayu-Clara-Befa-Sky-Gamis-Edisi-Tengkawang.jpg",
+    "authorId": 2,
+    "categoryId": 1,
+    "status": "active"
+  },
+  {
+    "id": 5,
+    "name": "AM Madinah – Azkia Ruffle Dress",
+    "description": "Apabila Anda mau outer yang juga bisa dijadikan dress, maka Azkia ruffle dress dari AM Madinah ini bisa menjadi pilihan yang tepat.",
+    "price": 155960,
+    "imgUrl": "https://ceklist.id/wp-content/uploads/2022/02/5-Model-Gamis-Sederhana-dan-Elegan-AM-Madinah-Azkia-Ruffle-Dress.jpg",
+    "authorId": 3,
+    "categoryId": 1,
+    "status": "active"
+  },
+  {
+    "id": 6,
+    "name": "AM Madinah – Azkia Ruffle Dress",
+    "description": "Apabila Anda mau outer yang juga bisa dijadikan dress, maka Azkia ruffle dress dari AM Madinah ini bisa menjadi pilihan yang tepat.",
+    "price": 155960,
+    "imgUrl": "https://ceklist.id/wp-content/uploads/2022/02/5-Model-Gamis-Sederhana-dan-Elegan-AM-Madinah-Azkia-Ruffle-Dress.jpg",
+    "authorId": 3,
+    "categoryId": 1,
+    "status": "active"
+  },
+  {
+    "id": 8,
+    "name": "AM Madinah – Azkia Ruffle Dress",
+    "description": "Apabila Anda mau outer yang juga bisa dijadikan dress, maka Azkia ruffle dress dari AM Madinah ini bisa menjadi pilihan yang tepat.",
+    "price": 155960,
+    "imgUrl": "https://ceklist.id/wp-content/uploads/2022/02/5-Model-Gamis-Sederhana-dan-Elegan-AM-Madinah-Azkia-Ruffle-Dress.jpg",
+    "authorId": 3,
+    "categoryId": 1,
+    "status": "active"
+  },
+  {
+    "id": 9,
+    "name": "ZM Feat Masayu Clara – Befa Sky Gamis – Edisi Tengkawang",
+    "description": "ZM Dress Befa Sky Gamis bisa menjadi pilihan yang tepat untuk Anda yang menginginkan model gamis sederhana dan elegan dengan motif ala Indonesia.",
+    "price": 155960,
+    "imgUrl": "https://ceklist.id/wp-content/uploads/2022/02/6-Model-Gamis-Sederhana-dan-Elegan-ZM-Feat-Masayu-Clara-Befa-Sky-Gamis-Edisi-Tengkawang.jpg",
+    "authorId": 2,
+    "categoryId": 1,
+    "status": "active"
+  },
+  {
+    "id": 10,
+    "name": "Wulfi Gamis Kiara Maroon",
+    "description": "Mau model gamis sederhana dan elegan tanpa motif apapun? Anda bisa memilih gamis kiara dari Wulfi ini.",
+    "price": 155960,
+    "imgUrl": "https://ceklist.id/wp-content/uploads/2022/02/2-Model-Gamis-Sederhana-dan-Elegan-Wulfi-Gamis-Kiara-Maroon.jpg",
+    "authorId": 2,
+    "categoryId": 1,
+    "status": "active"
+  },
+  {
+    "id": 11,
+    "name": "Puricia Gamis Ishmah",
+    "description": "Membutuhkan model gamis sederhana dan elegan untuk berbagai momen penting? Coba kenakan Puricia Gamis Ishmah ini.",
+    "price": 155960,
+    "imgUrl": "https://ceklist.id/wp-content/uploads/2022/02/3-Model-Gamis-Sederhana-dan-Elegan-Puricia-Gamis-Ishmah.jpg",
+    "authorId": 2,
+    "categoryId": 1,
+    "status": "active"
+  },
+  {
+    "id": 12,
+    "name": "Puricia Gamis Ishmah",
+    "description": "Membutuhkan model gamis sederhana dan elegan untuk berbagai momen penting? Coba kenakan Puricia Gamis Ishmah ini.",
+    "price": 155960,
+    "imgUrl": "https://ceklist.id/wp-content/uploads/2022/02/3-Model-Gamis-Sederhana-dan-Elegan-Puricia-Gamis-Ishmah.jpg",
+    "authorId": 2,
+    "categoryId": 1,
+    "status": "active"
+  },
+  {
+    "id": 13,
+    "name": "Puricia Gamis Ishmah",
+    "description": "Membutuhkan model gamis sederhana dan elegan untuk berbagai momen penting? Coba kenakan Puricia Gamis Ishmah ini.",
+    "price": 155960,
+    "imgUrl": "https://ceklist.id/wp-content/uploads/2022/02/3-Model-Gamis-Sederhana-dan-Elegan-Puricia-Gamis-Ishmah.jpg",
+    "authorId": 2,
+    "categoryId": 1,
+    "status": "active"
+  },
+  {
+    "id": 14,
+    "name": "Baneska Homedress Gamis Zaina Series",
+    "description": "Rekomendasi model gamis sederhana dan elegan yang terakhir adalah Baneska Homedress Gamis Zaina Series.",
+    "price": 155960,
+    "imgUrl": "https://ceklist.id/wp-content/uploads/2022/02/10-Model-Gamis-Sederhana-dan-Elegan-Baneska-Homedress-Gamis-Zaina-Series.jpg",
+    "authorId": 2,
+    "categoryId": 1,
+    "status": "active"
+  },
+  {
+    "id": 15,
+    "name": "Baneska Homedress Gamis Zaina Series",
+    "description": "Rekomendasi model gamis sederhana dan elegan yang terakhir adalah Baneska Homedress Gamis Zaina Series.",
+    "price": 155960,
+    "imgUrl": "https://ceklist.id/wp-content/uploads/2022/02/10-Model-Gamis-Sederhana-dan-Elegan-Baneska-Homedress-Gamis-Zaina-Series.jpg",
+    "authorId": 2,
+    "categoryId": 1,
+    "status": "active"
+  },
+  {
+    "id": 16,
+    "name": "AM Madinah – Azkia Ruffle Dress",
+    "description": "Apabila Anda mau outer yang juga bisa dijadikan dress, maka Azkia ruffle dress dari AM Madinah ini bisa menjadi pilihan yang tepat.",
+    "price": 155960,
+    "imgUrl": "https://ceklist.id/wp-content/uploads/2022/02/5-Model-Gamis-Sederhana-dan-Elegan-AM-Madinah-Azkia-Ruffle-Dress.jpg",
+    "authorId": 3,
+    "categoryId": 1,
+    "status": "active"
+  },
+  {
+    "id": 17,
+    "name": "ZM Feat Masayu Clara – Befa Sky Gamis – Edisi Tengkawang",
+    "description": "ZM Dress Befa Sky Gamis bisa menjadi pilihan yang tepat untuk Anda yang menginginkan model gamis sederhana dan elegan dengan motif ala Indonesia.",
+    "price": 155960,
+    "imgUrl": "https://ceklist.id/wp-content/uploads/2022/02/6-Model-Gamis-Sederhana-dan-Elegan-ZM-Feat-Masayu-Clara-Befa-Sky-Gamis-Edisi-Tengkawang.jpg",
+    "authorId": 2,
+    "categoryId": 1,
+    "status": "active"
+  },
+  {
+    "id": 18,
+    "name": "Baneska Homedress Gamis Zaina Series",
+    "description": "Rekomendasi model gamis sederhana dan elegan yang terakhir adalah Baneska Homedress Gamis Zaina Series.",
+    "price": 155960,
+    "imgUrl": "https://ceklist.id/wp-content/uploads/2022/02/10-Model-Gamis-Sederhana-dan-Elegan-Baneska-Homedress-Gamis-Zaina-Series.jpg",
+    "authorId": 2,
+    "categoryId": 1,
+    "status": "active"
+  },
+  {
+    "id": 19,
+    "name": "Puricia Gamis Ishmah",
+    "description": "Membutuhkan model gamis sederhana dan elegan untuk berbagai momen penting? Coba kenakan Puricia Gamis Ishmah ini.",
+    "price": 155960,
+    "imgUrl": "https://ceklist.id/wp-content/uploads/2022/02/3-Model-Gamis-Sederhana-dan-Elegan-Puricia-Gamis-Ishmah.jpg",
+    "authorId": 2,
+    "categoryId": 1,
+    "status": "active"
+  },
+  {
+    "id": 20,
+    "name": "ZM Feat Masayu Clara – Befa Sky Gamis – Edisi Tengkawang",
+    "description": "ZM Dress Befa Sky Gamis bisa menjadi pilihan yang tepat untuk Anda yang menginginkan model gamis sederhana dan elegan dengan motif ala Indonesia.",
+    "price": 155960,
+    "imgUrl": "https://ceklist.id/wp-content/uploads/2022/02/6-Model-Gamis-Sederhana-dan-Elegan-ZM-Feat-Masayu-Clara-Befa-Sky-Gamis-Edisi-Tengkawang.jpg",
+    "authorId": 2,
+    "categoryId": 1,
+    "status": "active"
+  },
+  {
+    "id": 21,
+    "name": "Baneska Homedress Gamis Zaina Series",
+    "description": "Rekomendasi model gamis sederhana dan elegan yang terakhir adalah Baneska Homedress Gamis Zaina Series.",
+    "price": 155960,
+    "imgUrl": "https://ceklist.id/wp-content/uploads/2022/02/10-Model-Gamis-Sederhana-dan-Elegan-Baneska-Homedress-Gamis-Zaina-Series.jpg",
+    "authorId": 2,
+    "categoryId": 1,
+    "status": "active"
+  },
+  {
+    "id": 22,
+    "name": "Baneska Homedress Gamis Zaina Series",
+    "description": "Rekomendasi model gamis sederhana dan elegan yang terakhir adalah Baneska Homedress Gamis Zaina Series.",
+    "price": 155960,
+    "imgUrl": "https://ceklist.id/wp-content/uploads/2022/02/10-Model-Gamis-Sederhana-dan-Elegan-Baneska-Homedress-Gamis-Zaina-Series.jpg",
+    "authorId": 2,
+    "categoryId": 1,
+    "status": "active"
+  },
+  {
+    "id": 23,
+    "name": "AM Madinah – Azkia Ruffle Dress",
+    "description": "Apabila Anda mau outer yang juga bisa dijadikan dress, maka Azkia ruffle dress dari AM Madinah ini bisa menjadi pilihan yang tepat.",
+    "price": 155960,
+    "imgUrl": "https://ceklist.id/wp-content/uploads/2022/02/5-Model-Gamis-Sederhana-dan-Elegan-AM-Madinah-Azkia-Ruffle-Dress.jpg",
+    "authorId": 3,
+    "categoryId": 1,
+    "status": "active"
+  },
+  {
+    "id": 24,
+    "name": "ZM Feat Masayu Clara – Befa Sky Gamis – Edisi Tengkawang",
+    "description": "ZM Dress Befa Sky Gamis bisa menjadi pilihan yang tepat untuk Anda yang menginginkan model gamis sederhana dan elegan dengan motif ala Indonesia.",
+    "price": 155960,
+    "imgUrl": "https://ceklist.id/wp-content/uploads/2022/02/6-Model-Gamis-Sederhana-dan-Elegan-ZM-Feat-Masayu-Clara-Befa-Sky-Gamis-Edisi-Tengkawang.jpg",
+    "authorId": 2,
+    "categoryId": 1,
+    "status": "active"
+  },
+  {
+    "id": 25,
+    "name": "Nutribaby Royal 2 1200gr Buat Umur 6-12 bulan",
+    "description": "Nutribaby Royal 2 adalah susu formula lanjutan untuk bayi berumur 6-12 bulan.Penggunan susu formula harus berdasarkan saran dokter atau ahli kesehatan anak.",
+    "price": 155960,
+    "imgUrl": "https://images.tokopedia.net/img/cache/900/VqbcmM/2020/8/7/5adc8a71-a1a9-4b7c-af18-14c2d01bc500.jpg",
+    "authorId": 2,
+    "categoryId": 3,
+    "status": "active"
+  }
+]

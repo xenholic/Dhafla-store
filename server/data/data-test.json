@@ -1,0 +1,122 @@
+[
+  {
+    "name": "test1",
+    "description": "data Test",
+    "price": 155960,
+    "imgUrl": "https://ceklist.id/wp-content/uploads/2022/02/5-Model-Gamis-Sederhana-dan-Elegan-AM-Madinah-Azkia-Ruffle-Dress.jpg",
+    "categoryId": 1,
+    "status": "active"
+  },
+  {
+    "name": "test2",
+    "description": "data Test",
+    "price": 155960,
+    "imgUrl": "https://ceklist.id/wp-content/uploads/2022/02/5-Model-Gamis-Sederhana-dan-Elegan-AM-Madinah-Azkia-Ruffle-Dress.jpg",
+    "categoryId": 3,
+    "status": "active"
+  },
+  {
+    "name": "test3",
+    "description": "data Test",
+    "price": 155960,
+    "imgUrl": "https://ceklist.id/wp-content/uploads/2022/02/5-Model-Gamis-Sederhana-dan-Elegan-AM-Madinah-Azkia-Ruffle-Dress.jpg",
+    "categoryId": 3,
+    "status": "active"
+  },
+  {
+    "name": "test4",
+    "description": "data Test",
+    "price": 155960,
+    "imgUrl": "https://ceklist.id/wp-content/uploads/2022/02/5-Model-Gamis-Sederhana-dan-Elegan-AM-Madinah-Azkia-Ruffle-Dress.jpg",
+    "categoryId": 3,
+    "status": "active"
+  },
+  {
+    "name": "test5",
+    "description": "data Test",
+    "price": 155960,
+    "imgUrl": "https://ceklist.id/wp-content/uploads/2022/02/5-Model-Gamis-Sederhana-dan-Elegan-AM-Madinah-Azkia-Ruffle-Dress.jpg",
+    "categoryId": 3,
+    "status": "active"
+  },
+  {
+    "name": "test6",
+    "description": "data Test",
+    "price": 155960,
+    "imgUrl": "https://ceklist.id/wp-content/uploads/2022/02/5-Model-Gamis-Sederhana-dan-Elegan-AM-Madinah-Azkia-Ruffle-Dress.jpg",
+    "categoryId": 3,
+    "status": "active"
+  },
+  {
+    "name": "test7",
+    "description": "data Test",
+    "price": 155960,
+    "imgUrl": "https://ceklist.id/wp-content/uploads/2022/02/5-Model-Gamis-Sederhana-dan-Elegan-AM-Madinah-Azkia-Ruffle-Dress.jpg",
+    "categoryId": 3,
+    "status": "active"
+  },
+  {
+    "name": "test8",
+    "description": "data Test",
+    "price": 155960,
+    "imgUrl": "https://ceklist.id/wp-content/uploads/2022/02/5-Model-Gamis-Sederhana-dan-Elegan-AM-Madinah-Azkia-Ruffle-Dress.jpg",
+    "categoryId": 3,
+    "status": "active"
+  },
+  {
+    "name": "test9",
+    "description": "data Test",
+    "price": 155960,
+    "imgUrl": "https://ceklist.id/wp-content/uploads/2022/02/5-Model-Gamis-Sederhana-dan-Elegan-AM-Madinah-Azkia-Ruffle-Dress.jpg",
+    "categoryId": 3,
+    "status": "active"
+  },
+  {
+    "name": "test10",
+    "description": "data Test",
+    "price": 155960,
+    "imgUrl": "https://ceklist.id/wp-content/uploads/2022/02/5-Model-Gamis-Sederhana-dan-Elegan-AM-Madinah-Azkia-Ruffle-Dress.jpg",
+    "categoryId": 3,
+    "status": "active"
+  },
+  {
+    "name": "test11",
+    "description": "data Test",
+    "price": 155960,
+    "imgUrl": "https://ceklist.id/wp-content/uploads/2022/02/5-Model-Gamis-Sederhana-dan-Elegan-AM-Madinah-Azkia-Ruffle-Dress.jpg",
+    "categoryId": 3,
+    "status": "active"
+  },
+  {
+    "name": "test12",
+    "description": "data Test",
+    "price": 155960,
+    "imgUrl": "https://ceklist.id/wp-content/uploads/2022/02/5-Model-Gamis-Sederhana-dan-Elegan-AM-Madinah-Azkia-Ruffle-Dress.jpg",
+    "categoryId": 3,
+    "status": "active"
+  },
+  {
+    "name": "test13",
+    "description": "data Test",
+    "price": 155960,
+    "imgUrl": "https://ceklist.id/wp-content/uploads/2022/02/5-Model-Gamis-Sederhana-dan-Elegan-AM-Madinah-Azkia-Ruffle-Dress.jpg",
+    "categoryId": 3,
+    "status": "active"
+  },
+  {
+    "name": "test14",
+    "description": "data Test",
+    "price": 155960,
+    "imgUrl": "https://ceklist.id/wp-content/uploads/2022/02/5-Model-Gamis-Sederhana-dan-Elegan-AM-Madinah-Azkia-Ruffle-Dress.jpg",
+    "categoryId": 3,
+    "status": "active"
+  },
+  {
+    "name": "test15",
+    "description": "data Test",
+    "price": 155960,
+    "imgUrl": "https://ceklist.id/wp-content/uploads/2022/02/5-Model-Gamis-Sederhana-dan-Elegan-AM-Madinah-Azkia-Ruffle-Dress.jpg",
+    "categoryId": 3,
+    "status": "active"
+  }
+]
